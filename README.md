@@ -103,7 +103,7 @@ Me chamo Vladison Lucas Costa Dos Santos, tenho 25 anos e sou natural de Pernamb
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=VladisonCosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -111,7 +111,7 @@ Me chamo Vladison Lucas Costa Dos Santos, tenho 25 anos e sou natural de Pernamb
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="80" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladisonCosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
