@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vladison Lucas Costa Dos Santos, tenho 25 anos e sou natural de Pernambuco. Concluí o ensino médio no Colegio Motivo, com o curso técnico em informática. Atualmente, estou cursando Ciência da computação na UniNassau. Sou apaixonado por tecnologia.
+Me chamo Vladison Lucas Costa Dos Santos, tenho 26 anos e sou natural de Pernambuco. Concluí o ensino médio no Colegio Motivo, com o curso técnico em informática. Atualmente, estou cursando Ciência da computação na UniNassau. Sou apaixonado por tecnologia.
 
 
 </a>
