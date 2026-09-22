@@ -1,66 +1,222 @@
-# 🤖 Vladison Costa
+# 👋 Vladison Costa
 
-**`Desenvolvedor FullStack`**
+### Computer Science Student | Backend • Data Engineering • Data Analysis
 
-Me chamo Vladison Lucas Costa Dos Santos, tenho 26 anos e sou natural de Pernambuco. Concluí o ensino médio no Colegio Motivo, com o curso técnico em informática. Atualmente, estou cursando Ciência da computação na UniNassau. Sou apaixonado por tecnologia.
+Sou estudante de **Bacharelado em Ciência da Computação na Universidade Maurício de Nassau**, com interesse e formação prática em **desenvolvimento backend, engenharia de dados, análise de dados e engenharia de software**.
 
+Minha trajetória inclui desenvolvimento backend utilizando **Java e Spring Boot**, construção de **APIs REST**, autenticação, persistência de dados, bancos relacionais e não relacionais, testes automatizados, Docker e integração contínua.
 
-</a>
-    <a href="https://github.com/VladisonCosta?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/VladisonCosta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/VladisonCosta?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/VladisonCosta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Também desenvolvo projetos voltados para dados utilizando **Python, SQL, PostgreSQL, Pandas, Plotly e Streamlit**, trabalhando com ETL, modelagem, qualidade de dados, análise e visualização.
+
+Busco continuar evoluindo através da construção de projetos reais, aplicação de boas práticas de engenharia de software e aprofundamento em tecnologias de backend, dados e cloud computing.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Featured Project
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Vite" title="Vite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+### 📊 E-commerce Intelligence
 
-<br/>
-<br/>
+Projeto end-to-end de **Engenharia de Dados e Análise de Dados** desenvolvido utilizando um dataset público real de e-commerce brasileiro.
 
-### 📊 Estatísticas
+O projeto transforma dados brutos em uma aplicação analítica completa, passando pelas etapas de ingestão, transformação, armazenamento, análise e visualização dos dados.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="100" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VladisonCosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### Principais componentes
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="80" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladisonCosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+- Pipeline ETL desenvolvido em Python
+- Modelagem e armazenamento de dados em PostgreSQL
+- Validação de qualidade dos dados
+- Verificação de valores nulos e registros duplicados
+- Validação da quantidade de registros entre fonte e banco
+- Views e consultas analíticas em SQL
+- Análise de dados com Pandas
+- Dashboard interativo com Streamlit e Plotly
+- Filtros por período, estado e quantidade de categorias
+- PostgreSQL hospedado em ambiente cloud
+- Deploy público da aplicação com Streamlit Community Cloud
+- Testes unitários com Pytest
+- Integração contínua com GitHub Actions
+- Gerenciamento de credenciais através de variáveis de ambiente e secrets
 
-</p>
+🔗 **Repository:**  
+[github.com/VladisonCosta/ecom-intelligence](https://github.com/VladisonCosta/ecom-intelligence)
+
+🌐 **Live Dashboard:**  
+[ecom-intelligence-vladison.streamlit.app](https://ecom-intelligence-vladison.streamlit.app)
+
+---
+
+## 🛠️ Technologies
+
+### ☕ Backend
+
+`Java` `Spring Boot` `Spring Security` `JPA / Hibernate` `REST APIs` `JWT`
+
+### 📊 Data Engineering & Data Analysis
+
+`Python` `SQL` `Pandas` `ETL` `Data Quality` `Data Analysis`
+
+### 🗄️ Databases
+
+`PostgreSQL` `MongoDB`
+
+### 📈 Data Visualization & Applications
+
+`Streamlit` `Plotly`
+
+### 🧪 Testing
+
+`JUnit` `Mockito` `Pytest`
+
+### ⚙️ DevOps & Development Tools
+
+`Docker` `Docker Compose` `Git` `GitHub` `GitHub Actions`
+
+### ☁️ Cloud
+
+`AWS Fundamentals` `Cloud Computing`
+
+---
+
+## ☕ Java Backend
+
+Durante minha formação em desenvolvimento backend, desenvolvi conhecimentos práticos utilizando **Java e o ecossistema Spring**.
+
+Entre os principais conteúdos estudados e aplicados estão:
+
+- Java
+- Programação Orientada a Objetos
+- Spring Boot
+- Spring Security
+- Desenvolvimento de APIs REST
+- Autenticação e autorização com JWT
+- JPA / Hibernate
+- Integração com PostgreSQL
+- Utilização de MongoDB
+- Documentação de APIs
+- Testes unitários com JUnit
+- Mockito
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- Conceitos de integração contínua com GitHub Actions
+
+---
+
+## 🎓 Formação Acadêmica
+
+### Bacharelado em Ciência da Computação
+
+**Universidade Maurício de Nassau — UNINASSAU**  
+2023.2 – 2027.1
+
+---
+
+## 📚 Formação Complementar
+
+### ☕ Java Backend — Javanauta
+
+Formação prática voltada ao desenvolvimento de aplicações backend utilizando **Java e Spring**.
+
+Principais tópicos estudados:
+
+- Java
+- Orientação a Objetos
+- Spring Boot
+- Spring Security
+- APIs REST
+- JWT
+- JPA / Hibernate
+- PostgreSQL
+- MongoDB
+- JUnit
+- Mockito
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- CI/CD com GitHub Actions
+
+### ☁️ AWS Cloud Foundations — AWS Training / Alura (2024)
+
+Formação em fundamentos de **Cloud Computing** e conceitos da plataforma AWS.
+
+Principais temas estudados:
+
+- Fundamentos de computação em nuvem
+- Conceitos e serviços da AWS
+- Infraestrutura global da AWS
+- Regiões e zonas de disponibilidade
+- Computação em nuvem
+- Armazenamento
+- Bancos de dados
+- Conceitos de redes
+- Segurança em cloud
+- Modelo de responsabilidade compartilhada
+- Escalabilidade
+- Alta disponibilidade
+- Conceitos fundamentais de arquitetura em nuvem
+
+---
+
+## 📚 Currently Learning
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Data Engineering
+- Data Analysis
+- Backend Development
+- Java and Spring Boot
+- Python
+- SQL
+- PostgreSQL
+- Software Engineering
+- Automated Testing
+- CI/CD
+- Cloud Computing
+- AWS
+- Database Design
+
+---
+
+## 🎯 Areas of Interest
+
+Tenho interesse profissional principalmente nas áreas de:
+
+- **Backend Development**
+- **Data Engineering**
+- **Data Analysis**
+- **Software Engineering**
+
+Também busco aprofundar meus conhecimentos em **Cloud Computing e DevOps**, principalmente aplicados à construção e implantação de aplicações e pipelines de dados.
+
+---
+
+## 💡 Current Focus
+
+Atualmente estou focado em construir projetos que demonstrem conhecimentos práticos em:
+
+- desenvolvimento de APIs e sistemas backend;
+- desenvolvimento backend com Java e Spring Boot;
+- construção de pipelines de dados;
+- processos ETL;
+- modelagem de bancos de dados;
+- PostgreSQL e SQL;
+- análise de dados com Python e Pandas;
+- visualização e construção de dashboards;
+- qualidade de dados;
+- testes automatizados;
+- integração contínua;
+- Docker;
+- Git e GitHub;
+- fundamentos de cloud computing.
+
+---
+
+## 📫 Contact
+
+- GitHub: [VladisonCosta](https://github.com/VladisonCosta)
+
+---
+
+### 🚀 Building, learning and improving one project at a time.
