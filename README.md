@@ -1,6 +1,6 @@
 # 👋 Vladison Costa
 
-### Computer Science Student | Backend • Data Engineering • Data Analysis
+### Computer Science Student | Backend • Data Engineering • Data Analysis • QA & Automação de Testes 
 
 Sou estudante de **Bacharelado em Ciência da Computação na Universidade Maurício de Nassau**, com interesse e formação prática em **desenvolvimento backend, engenharia de dados, análise de dados e engenharia de software**.
 
