@@ -1,222 +1,129 @@
-# 👋 Vladison Costa
+# 👋 Olá, sou Vladison Costa!
 
-### Computer Science Student | Backend • Data Engineering • Data Analysis • QA & Automação de Testes 
+### Data Engineering | Data Analytics | QA Automation & Quality Engineering
 
-Sou estudante de **Bacharelado em Ciência da Computação na Universidade Maurício de Nassau**, com interesse e formação prática em **desenvolvimento backend, engenharia de dados, análise de dados e engenharia de software**.
+🎓 Estudante de Ciência da Computação na UNINASSAU  
+📍 Recife, Pernambuco — Brasil
 
-Minha trajetória inclui desenvolvimento backend utilizando **Java e Spring Boot**, construção de **APIs REST**, autenticação, persistência de dados, bancos relacionais e não relacionais, testes automatizados, Docker e integração contínua.
+Sou estudante de Ciência da Computação com foco em **Engenharia de Dados, Análise de Dados e Quality Assurance (QA)**.
 
-Também desenvolvo projetos voltados para dados utilizando **Python, SQL, PostgreSQL, Pandas, Plotly e Streamlit**, trabalhando com ETL, modelagem, qualidade de dados, análise e visualização.
+Desenvolvo projetos que integram processamento de dados, automação de testes e práticas de Engenharia de Software, buscando construir soluções confiáveis, testáveis e orientadas a resultados.
 
-Busco continuar evoluindo através da construção de projetos reais, aplicação de boas práticas de engenharia de software e aprofundamento em tecnologias de backend, dados e cloud computing.
+Também possuo conhecimentos complementares em desenvolvimento Backend, APIs REST, bancos de dados e Cloud Computing.
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tecnologias e competências
+
+**📊 Engenharia e Análise de Dados**  
+Python • SQL • PostgreSQL • Pandas • ETL • Data Quality • Streamlit • Plotly
+
+**🧪 QA Automation & Quality Engineering**  
+Selenium WebDriver • pytest • JUnit 5 • RestAssured • Maven • JSON Schema • API Testing • E2E Testing • Page Object Model
+
+**💻 Engenharia de Software e Backend**  
+Java • Spring Boot • FastAPI • APIs REST • Spring Security • JPA/Hibernate
+
+**⚙️ Ferramentas e Cloud**  
+Git • GitHub • GitHub Actions • Docker • Postman • AWS Fundamentals
+
+---
+
+## 🚀 Projetos de Engenharia e Análise de Dados
 
 ### 📊 E-commerce Intelligence
 
-Projeto end-to-end de **Engenharia de Dados e Análise de Dados** desenvolvido utilizando um dataset público real de e-commerce brasileiro.
+Projeto end-to-end que transforma dados públicos de e-commerce em informações analíticas.
 
-O projeto transforma dados brutos em uma aplicação analítica completa, passando pelas etapas de ingestão, transformação, armazenamento, análise e visualização dos dados.
+- Pipeline ETL com Python e Pandas.
+- Banco de dados PostgreSQL e consultas SQL.
+- Validações de qualidade dos dados.
+- Dashboard interativo com Streamlit e Plotly.
+- Indicadores de vendas, clientes e desempenho comercial.
 
-### Principais componentes
+🔗 [Código no GitHub](https://github.com/VladisonCosta/ecom-intelligence)  
+🌐 [Dashboard online](https://ecom-intelligence-vladison.streamlit.app)
 
-- Pipeline ETL desenvolvido em Python
-- Modelagem e armazenamento de dados em PostgreSQL
-- Validação de qualidade dos dados
-- Verificação de valores nulos e registros duplicados
-- Validação da quantidade de registros entre fonte e banco
-- Views e consultas analíticas em SQL
-- Análise de dados com Pandas
-- Dashboard interativo com Streamlit e Plotly
-- Filtros por período, estado e quantidade de categorias
-- PostgreSQL hospedado em ambiente cloud
-- Deploy público da aplicação com Streamlit Community Cloud
-- Testes unitários com Pytest
-- Integração contínua com GitHub Actions
-- Gerenciamento de credenciais através de variáveis de ambiente e secrets
+### 📈 Brazilian Economic Intelligence — Data Pipeline + AI Agent
 
-🔗 **Repository:**  
-[github.com/VladisonCosta/ecom-intelligence](https://github.com/VladisonCosta/ecom-intelligence)
+Projeto de Engenharia de Dados e IA aplicada a indicadores econômicos brasileiros.
 
-🌐 **Live Dashboard:**  
-[ecom-intelligence-vladison.streamlit.app](https://ecom-intelligence-vladison.streamlit.app)
+- Extração de dados da API do Banco Central.
+- Processamento e armazenamento em SQLite.
+- Análise estatística com Pandas e Matplotlib.
+- API FastAPI integrada a um agente de IA.
+- Recuperação estruturada de dados para contextualizar respostas.
+
+🔗 [Código no GitHub](https://github.com/VladisonCosta/painel-economico-ia)
 
 ---
 
-## 🛠️ Technologies
+## 🧪 Projetos de QA Automation & Quality Engineering
 
-### ☕ Backend
+### CasePilot — QA Web Automation
 
-`Java` `Spring Boot` `Spring Security` `JPA / Hibernate` `REST APIs` `JWT`
+Framework de automação de testes web e API.
 
-### 📊 Data Engineering & Data Analysis
+- Java, Selenium WebDriver, JUnit 5 e Maven.
+- Page Object Model e testes end-to-end.
+- Testes de autenticação, chamados, filtros e permissões.
+- Screenshots automáticos de falhas.
+- **9 testes Selenium aprovados.**
+- **95% de cobertura do backend Python.**
+- GitHub Actions validado com Chrome headless.
 
-`Python` `SQL` `Pandas` `ETL` `Data Quality` `Data Analysis`
+🔗 [CasePilot no GitHub](https://github.com/VladisonCosta/casepilot-qa-web)
 
-### 🗄️ Databases
+### ParcelGuard — API Quality Engineering
 
-`PostgreSQL` `MongoDB`
+Projeto de automação de testes para uma API REST de logística.
 
-### 📈 Data Visualization & Applications
+- Python, FastAPI, pytest e JSON Schema.
+- Testes de contratos, segurança e regras de negócio.
+- Validações de idempotência e concorrência.
+- **28 testes aprovados.**
+- **99% de cobertura do backend Python.**
+- Quality gate de 80% configurado no GitHub Actions.
 
-`Streamlit` `Plotly`
+🔗 [ParcelGuard no GitHub](https://github.com/VladisonCosta/parcelguard-api-quality)
 
-### 🧪 Testing
+### QA Web Automation Framework
 
-`JUnit` `Mockito` `Pytest`
+Automação web utilizando Java, Selenium, JUnit 5, Maven e Allure.
 
-### ⚙️ DevOps & Development Tools
+Inclui cenários de autenticação, inventário, carrinho e checkout, além de documentação de QA, testes smoke e regressão.
 
-`Docker` `Docker Compose` `Git` `GitHub` `GitHub Actions`
+🔗 [Ver repositório](https://github.com/VladisonCosta/qa-web-automation-framework)
 
-### ☁️ Cloud
+### API Quality Engineering Lab
 
-`AWS Fundamentals` `Cloud Computing`
+Automação de testes de API com Java, RestAssured, JUnit 5 e Spring Boot.
 
----
+Suíte com 11 cenários envolvendo autenticação, operações CRUD, paginação, validação de respostas HTTP e JSON Schema.
 
-## ☕ Java Backend
-
-Durante minha formação em desenvolvimento backend, desenvolvi conhecimentos práticos utilizando **Java e o ecossistema Spring**.
-
-Entre os principais conteúdos estudados e aplicados estão:
-
-- Java
-- Programação Orientada a Objetos
-- Spring Boot
-- Spring Security
-- Desenvolvimento de APIs REST
-- Autenticação e autorização com JWT
-- JPA / Hibernate
-- Integração com PostgreSQL
-- Utilização de MongoDB
-- Documentação de APIs
-- Testes unitários com JUnit
-- Mockito
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- Conceitos de integração contínua com GitHub Actions
+🔗 [Ver repositório](https://github.com/VladisonCosta/api-quality-engineering-lab)
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Formação e desenvolvimento
 
-### Bacharelado em Ciência da Computação
+**Bacharelado em Ciência da Computação**  
+Universidade Maurício de Nassau — UNINASSAU  
+2023–2027 (em andamento)
 
-**Universidade Maurício de Nassau — UNINASSAU**  
-2023.2 – 2027.1
-
----
-
-## 📚 Formação Complementar
-
-### ☕ Java Backend — Javanauta
-
-Formação prática voltada ao desenvolvimento de aplicações backend utilizando **Java e Spring**.
-
-Principais tópicos estudados:
-
-- Java
-- Orientação a Objetos
-- Spring Boot
-- Spring Security
-- APIs REST
-- JWT
-- JPA / Hibernate
-- PostgreSQL
-- MongoDB
-- JUnit
-- Mockito
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- CI/CD com GitHub Actions
-
-### ☁️ AWS Cloud Foundations — AWS Training / Alura (2024)
-
-Formação em fundamentos de **Cloud Computing** e conceitos da plataforma AWS.
-
-Principais temas estudados:
-
-- Fundamentos de computação em nuvem
-- Conceitos e serviços da AWS
-- Infraestrutura global da AWS
-- Regiões e zonas de disponibilidade
-- Computação em nuvem
-- Armazenamento
-- Bancos de dados
-- Conceitos de redes
-- Segurança em cloud
-- Modelo de responsabilidade compartilhada
-- Escalabilidade
-- Alta disponibilidade
-- Conceitos fundamentais de arquitetura em nuvem
+Formação complementar em Java Backend, automação de testes, metodologias ágeis e fundamentos de Cloud Computing e AWS.
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Objetivo profissional
 
-Atualmente estou aprofundando meus conhecimentos em:
-
-- Data Engineering
-- Data Analysis
-- Backend Development
-- Java and Spring Boot
-- Python
-- SQL
-- PostgreSQL
-- Software Engineering
-- Automated Testing
-- CI/CD
-- Cloud Computing
-- AWS
-- Database Design
+Busco oportunidades em **Engenharia de Dados, Análise de Dados e QA Automation / Quality Engineering**, aplicando conhecimentos em dados, automação, qualidade de software e Engenharia de Software.
 
 ---
 
-## 🎯 Areas of Interest
+## 📫 Contato
 
-Tenho interesse profissional principalmente nas áreas de:
+💼 [LinkedIn](https://www.linkedin.com/in/vladison-costa-05445732b/)  
+💻 [GitHub](https://github.com/VladisonCosta)
 
-- **Backend Development**
-- **Data Engineering**
-- **Data Analysis**
-- **Software Engineering**
-
-Também busco aprofundar meus conhecimentos em **Cloud Computing e DevOps**, principalmente aplicados à construção e implantação de aplicações e pipelines de dados.
-
----
-
-## 💡 Current Focus
-
-Atualmente estou focado em construir projetos que demonstrem conhecimentos práticos em:
-
-- desenvolvimento de APIs e sistemas backend;
-- desenvolvimento backend com Java e Spring Boot;
-- construção de pipelines de dados;
-- processos ETL;
-- modelagem de bancos de dados;
-- PostgreSQL e SQL;
-- análise de dados com Python e Pandas;
-- visualização e construção de dashboards;
-- qualidade de dados;
-- testes automatizados;
-- integração contínua;
-- Docker;
-- Git e GitHub;
-- fundamentos de cloud computing.
-
----
-
-## 📫 Contact
-
-- GitHub: [VladisonCosta](https://github.com/VladisonCosta)
-
----
-
-### 🚀 Building, learning and improving one project at a time.
+*Building, testing and improving — one project at a time.*
